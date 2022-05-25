@@ -1,0 +1,42 @@
+Enter marks
+12
+ Grade F
+Enter year: 
+14
+not a leap year
+4*3=
+12
+right
+5*8=
+40
+right
+9*9=
+81
+right
+20*10=
+200
+right
+9*3=
+27
+right
+4*9=
+36
+right
+9*7=
+63
+right
+7*8=
+56
+right
+8*3=
+24
+right
+10*3=
+30
+right
+thanks for playing
+177 candies are in the bowl!
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
